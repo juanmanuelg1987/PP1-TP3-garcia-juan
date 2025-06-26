@@ -35,6 +35,6 @@ La presentación fue desarrollada en formato web utilizando HTML5, Bootstrap 5 y
 ## Visualización online
 
 El trabajo puede visualizarse directamente desde GitHub Pages:  
-**[Ver presentación online](https://usuario.github.io/PP1-TP3-garcia-juan/)**
+**[Ver presentación online](https://juanmanuelg1987.github.io/PP1-TP3-garcia-juan/)**
 
 
