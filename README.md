@@ -150,7 +150,7 @@ Trabajo académico sobre **Tecnoestrés**, enfocado en la ansiedad y estrés gen
 
 ## Visualización online
 
-Podes visualizarlo directamente desde GitHub Pages: 👇🏼 
+Podes visualizarlo directamente desde GitHub Pages: 👉🏼 
 **[Ver presentación online](https://juanmanuelg1987.github.io/PP1-TP3-garcia-juan/)**
 
 
