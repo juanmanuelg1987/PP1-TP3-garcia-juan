@@ -29,7 +29,7 @@ La presentación fue desarrollada en formato web utilizando HTML5, Bootstrap 5 y
 
 
 
-## 📱 Tecnoestrés - Riesgos Psicosociales
+## Tecnoestrés -
 
 ### Descripción
 
@@ -150,7 +150,7 @@ Trabajo académico sobre **Tecnoestrés**, enfocado en la ansiedad y estrés gen
 
 ## Visualización online
 
-El trabajo puede visualizarse directamente desde GitHub Pages:  
+Podes visualizarlo directamente desde GitHub Pages: 👇🏼 
 **[Ver presentación online](https://juanmanuelg1987.github.io/PP1-TP3-garcia-juan/)**
 
 
