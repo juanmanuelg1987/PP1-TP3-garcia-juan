@@ -72,7 +72,17 @@
 
     <!-- Introducción -->
     <section id="introduccion">
-      <div class="card p-4 mb-4">
+      <div class="card p-4 mb-4">  <!--
+
+p-4 significa padding 4: agrega un relleno interno (espacio dentro del borde del card) en todos los lados. El número 4 es una escala de Bootstrap (va de 0 a 5, donde 4 es bastante cómodo).
+mb-4 significa margin-bottom 4: agrega un margen inferior (espacio por fuera, debajo del card) para separar ese card del siguiente elemento.
+
+
+
+        p-4 mb-4 hace que cada card tenga buen espacio interno y separación visual hacia abajo, mejorando la legibilidad y el diseño.
+
+
+Puedes ajustar los números para más o menos espacio según prefieras.-->
         <h2>Introducción</h2>
         <p>La transformación digital del trabajo ha redefinido las fronteras entre la vida personal y profesional. En Argentina, esta realidad se intensificó con la pandemia de COVID-19, acelerando la adopción del teletrabajo y evidenciando la necesidad urgente de regular los <strong>riesgos psicosociales</strong> emergentes.</p>
         
@@ -109,7 +119,8 @@
               <li>Extensión de jornadas por necesidad económica</li>
             </ul>
           </div>
-          <div class="col-md-6">
+          <div class="col-md-6"> <!-- col-md-6 indica que ese <div> ocupará 6 columnas (de un total de 12) en pantallas medianas o más grandes (md = "medium", desde 768px de ancho).
+Así, si tienes dos <div class="col-md-6"> dentro de un <div class="row">, cada uno ocupará la mitad del ancho en pantallas medianas o grandes, y se verán uno al lado del otro. -->
             <h4>Factores Socioculturales</h4>
             <ul>
               <li>Cultura del "siempre disponible"</li>
@@ -139,7 +150,7 @@
                 <strong>Factores de Contenido</strong>
               </div>
               <div class="card-body">
-                <ul class="list-unstyled">
+                <ul class="list-unstyled"> <!--La clase list-unstyled es una utilidad de Bootstrap que se aplica a listas (<ul> o <ol>) para quitarles los estilos por defecto, es decir, elimina los puntos o números que normalmente aparecen al lado de cada elemento de la lista.-->
                   <li>• Sobrecarga cuantitativa</li>
                   <li>• Sobrecarga cualitativa</li>
                   <li>• Infrautilización de habilidades</li>
