@@ -20,8 +20,8 @@ body {
 
 /* Header destacado con fondo y filtro */
 header {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)),
-              url('../imagenes/carrusel1.jpg') center/cover no-repeat;
+ /* background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)),
+              url('../imagenes/carrusel1.jpg') center/cover no-repeat;*/
   color: white;
   text-align: center;
   padding: 120px 15px;
