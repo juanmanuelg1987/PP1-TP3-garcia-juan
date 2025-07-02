@@ -176,3 +176,43 @@ footer {
 #btnInicio:hover {
     background-color: #0056b3;
 }
+
+
+
+
+
+
+
+.hero-section {
+    background-image: 
+        linear-gradient(rgba(30, 60, 114, 0.7), rgba(42, 82, 152, 0.7)),
+        url('https://simeon.com.co/media/k2/items/cache/68b62085e41e8f225811766f8d5eb2bb_XL.jpg');  /* ESTA es la línea clave */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    padding: 100px 20px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+.hero-section2 {
+    background-image: 
+        linear-gradient(rgba(30, 60, 114, 0.7), rgba(42, 82, 152, 0.7)),
+        url('https://blog.servitalent.com/hubfs/desconexi%C3%B3n%20digital.jpg');  /* ESTA es la línea clave */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    padding: 100px 20px;
+    text-align: center;
+}
+
+/*.hero-section {
+    filter: brightness(0.9);
+}*/
